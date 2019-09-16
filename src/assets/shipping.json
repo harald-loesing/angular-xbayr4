@@ -1,14 +1,14 @@
 [
   {
-    "type": "Overnight",
+    "type": "Direkte Lieferung (über Nacht)",
     "price": 25.99
   },
   {
-    "type": "2-Day",
+    "type": "Normale Lieferung (ca. 2 Tage)",
     "price": 9.99
   },
   {
-    "type": "Postal",
+    "type": "Post Lieferung (ca. 4 Tage)",
     "price": 2.99
   }
 ]
