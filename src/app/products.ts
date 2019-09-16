@@ -2,7 +2,7 @@ export const products = [
   {
     name: 'Telefon XL',
     price: 799,
-    description: 'Ein grosses Telefon mit einem der besten Anzeigen.'
+    description: 'Ein grosses Telefon mit einer der besten Anzeigen.'
   },
   {
     name: 'Telefon S',
