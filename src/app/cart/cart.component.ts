@@ -22,9 +22,9 @@ export class CartComponent {
       name: '',
       address: ''
     });
-   }
+  }
 
-   onSubmit(customerData) {
+  onSubmit(customerData) {
     // Process checkout data here
     console.warn('Ihre Bestellung wurde verarbeitet', customerData);
 
